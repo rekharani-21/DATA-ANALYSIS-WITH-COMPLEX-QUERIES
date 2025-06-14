@@ -16,6 +16,8 @@ Through this task, I improved not only my SQL skills but also my ability to solv
 
 #output
 
+![Image](https://github.com/user-attachments/assets/acfde1f7-721e-4544-9b97-a997a996fe5a)
+
 
 
 
