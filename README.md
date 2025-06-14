@@ -14,6 +14,9 @@ MENTOR: NEELA SANTOSH
 
 Through this task, I improved not only my SQL skills but also my ability to solve problems using workarounds when certain database features are not available. This experience will help in handling real-world data problems where constraints are common.
 
+#output
+
+
 
 
 
